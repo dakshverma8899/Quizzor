@@ -1,2 +1,2 @@
-# Quizzor
+# quizzz
 Created with CodeSandbox
